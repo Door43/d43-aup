@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aup:home|Door43 (aup)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aup|d43-aup repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aup/archive/master.zip|d43-aup.zip]]
+
+**Recent Changes**
+{{changes>ns = aup}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aup|Ethnologue data]]
+
